@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+import logo from './nmp.svg';
 import './App.css';
-
+ console.log("hello")
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Welcome to No Maswabi Prints 
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          New Releases 
         </a>
       </header>
     </div>
